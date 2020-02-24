@@ -20,5 +20,10 @@ class Student
         SQL
       DB[:conn].execute(sql)
      end 
+     def self.drob_table
+      sql = <<- SQL 
+      
+     
+     end 
   
 end
