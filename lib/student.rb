@@ -22,7 +22,7 @@ class Student
      end 
      def self.drob_table
       sql = <<- SQL 
-      
+      DROP 
      
      end 
   
